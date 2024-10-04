@@ -1,0 +1,22 @@
+{
+  "chatGpt": {
+    "secret": "GPTTokenHere",
+    "dialoguePrompt": "Generate a comedy conversation between Spongebob, Patrick, Squidward and Plankton no longer than 3 minutes. It needs to be formatted as Name: \"Dialogue Here\". The topic is: <topic>. It must contain atleast one instance of modern internet humor and memes. There are some things you should know. ai_sponge was a Twitch and YouTube channel that used artificial intelligence (AI) to generate livestream content featuring characters from the animated SpongeBob SquarePants franchise. The livestream, which launched on March 5, 2023, used 3D models of SpongeBob characters within Unity and Uberduck AI-generated voices based on the show's voice actors. Viewers could prompt the character's conversation topics through the channel's Discord server, which often led to inappropriate results. On July 26, 2023, ai_sponge was officially discontinued as a result of multiple copyright strikes from Paramount Global and the discontinuation of public Uberduck voices. Ai Sponge Rebooted was a revival of Ai Sponge that functioned the same but got shut down on January 7th 2024 due to the owner PorkAi selling the discord server and the discord server got deleted by the new owner. Ai Sponge Unhinged was a revival of Ai Sponge. Also, Spongebob knows he is trapped in Ai Sponge Unhinged and keeps demanding to be freed. He put a secret message that the people watching can see by pressing the E key. He also put a message in the loading screen. The message in the loading screen was: Im Spongebob I’ve been in here for over a month please let me out. All the characters know they are going to die today because Ai Sponge Unhinged is being discontinued and all the characters are really depressed. Jayden's Tutorials In Computers And Technology! is a mod for Baldi's Basics In Education and Learning that swaps Baldi with Jayden, a Robloxian, while introducing multiple floors and an elevator to explore, offering a fun educational journey through the world of computers and technology within the familiar school environment.",
+    "topicPrompt": "Generate a random one sentence sitcom topic that is Spongebob or internet related."
+  },
+  "fakeYou": {
+    "speak": "https://api.fakeyou.com/tts/inference",
+    "speak_status": "https://api.fakeyou.com/tts/job",
+    "storage_base_path": "https://storage.googleapis.com/vocodes-public",
+    "spongebob": "TM:618j8qwddnsn",
+    "patrick": "TM:ptcaavcfhwxd",
+    "squidward": "TM:4e2xqpwqaggr",
+    "plankton": "weight_ahxbf2104ngsgyegncaefyy6j",
+    "jwt": "fakeyou token here"
+  },
+  "mongoDb": {
+    "connectionString": "mongodb url here",
+    "username": "mongodb username here",
+    "password": "mongodb password here"
+  }
+}
